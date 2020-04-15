@@ -29,5 +29,11 @@ def consolidate_cart(cart)
     end
     cart_index += 1
   end
+  cleaned_cart
+  # Consult README for inputs and outputs
+  #
+  # REMEMBER: This returns a new Array that represents the cart. Don't merely
+  # change `cart` (i.e. mutate) it. It's easier to return a new thing.
+end
 
   
